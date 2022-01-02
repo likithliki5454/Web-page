@@ -1,0 +1,37 @@
+#style {
+  display: block;
+  margin-top: -1vh;
+}
+
+#im1 {
+  height: 70vh;
+}
+
+#im2 {
+  height: 70vh;
+}
+
+#im3 {
+  height: 70vh;
+}
+
+#im4 {
+  height: 70vh;
+}
+
+.carousel-control-next-icon {
+  background-color: black;
+  color: azure;
+}
+
+.carousel-control-prev-icon {
+  background-color: black;
+  color: azure;
+}
+
+h3 {
+  color: black;
+}
+p {
+  color: rgb(30, 201, 39);
+}

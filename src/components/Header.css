@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#head {
+  display: flex;
+  justify-content: space-between;
+}
+
+li,
+a {
+  list-style: none;
+}
+
+#hm {
+  background-color: rgb(132, 145, 148);
+}
+
+a {
+  font-size: 3vw;
+}
+
+#a:hover {
+  color: rgb(223, 199, 199);
+}
+
+#b:hover {
+  color: rgb(223, 199, 199);
+}
+
+#c:hover {
+  color: rgb(223, 199, 199);
+}
+
+#d:hover {
+  color: rgb(223, 199, 199);
+}
+
+#e:hover {
+  color: rgb(223, 199, 199);
+}
+#f:hover {
+  color: rgb(223, 199, 199);
+}
